@@ -7,5 +7,7 @@ request.onload = function() {
 	var jsonData = JSON.parse(response);
 	console.log(jsonData);
 };
-
+request.onerror=function(){
+	console.log('there seems to be a problem!');
+};
 request.send();
