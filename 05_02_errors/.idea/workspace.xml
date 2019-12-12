@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="acb88f38-8911-45a8-a10e-73fc142f332c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/05_02_errors.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../04_02_GiphyRequest/begin/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../04_02_GiphyRequest/begin/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/begin/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/begin/script.js" afterDir="false" />
-    </list>
+    <list default="true" id="acb88f38-8911-45a8-a10e-73fc142f332c" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -103,6 +99,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -131,12 +128,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1576044175757</updated>
-      <workItem from="1576044176962" duration="427000" />
+      <workItem from="1576044176962" duration="575000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="427000" />
+    <option name="totallyTimeSpent" value="575000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
